@@ -22,14 +22,15 @@ I'm passionate about using data and machine learning to solve real-world problem
 
 ### 📌 Highlighted Projects
 
-- **🔗 Malicious URL Detection**  
-  Built a machine learning system in Python to classify URLs as malicious or safe using classification algorithms and feature extraction.
+- **💰 Loan Default Prediction**  
+  Developed a machine learning model in Python to predict loan default risk based on customer demographics and financial features. Applied logistic regression, decision trees, and random forest models. Evaluated using accuracy, confusion matrix, and ROC curve. Included data preprocessing, feature scaling, and model tuning.
 
 - **❤️ Heart Disease Prediction**  
-  Developed an R-based model using real health survey data to predict heart disease risk.
+  Developed an R-based model using real-world health survey data to predict heart disease risk. Applied logistic regression and decision trees, and visualized model performance with ROC curve and confusion matrix.
 
 - **🛒 E-commerce Website**  
-  Created a fully functional C# e-commerce platform with secure database and user access management.
+  Created a fully functional C# e-commerce platform with secure login, user roles, product listings, and SQL Server database integration for inventory and order management.
+
 
 > 🧠 More projects coming soon — stay tuned!
 
