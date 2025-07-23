@@ -14,7 +14,7 @@ I'm passionate about using data and machine learning to solve real-world problem
 
 ### 🔧 Tech Stack
 
-- **Languages**: Python, SQL, R, C++, C#
+- **Languages**: Python, SQL, R, SAS, C++, C#
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib
 - **Tools**: Power BI, Tableau, SAS, SQL Server, Git, Visual Studio
 
